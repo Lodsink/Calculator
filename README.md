@@ -11,4 +11,4 @@ Features
 
 Installation
 
-Download it and run it on visual studio
+Download it and run it
